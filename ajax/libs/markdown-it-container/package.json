@@ -9,7 +9,7 @@
     "url": "git://github.com/markdown-it/markdown-it-container.git"
   },
   "license": "MIT",
-  "filename": "index.min.js",
+  "filename": "index.js",
   "keywords": [
     "markdown-it-plugin",
     "markdown-it",
