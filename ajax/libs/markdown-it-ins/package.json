@@ -14,5 +14,5 @@
     "url": "git://github.com/markdown-it/markdown-it-ins.git"
   },
   "license": "MIT",
-  "filename": "index.min.js"
+  "filename": "index.js"
 }
