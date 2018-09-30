@@ -13,5 +13,5 @@
     "url": "git://github.com/markdown-it/markdown-it-deflist.git"
   },
   "license": "MIT",
-  "filename": "index.min.js"
+  "filename": "index.js"
 }
